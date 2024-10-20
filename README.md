@@ -13,6 +13,7 @@ Personally, I see this akin to teaching a child the differnce between dogs, cats
 - Pandas, and the transformers libs must be installed on you machine. 
 
 # Example Results
+```
 Ticket #: 1 | Known Category: BGP Routing | Zero Shot Category: Routing | Zero Shot Probability: 0.8544367551803589
 Ticket #: 2 | Known Category: Password Reset | Zero Shot Category: Password Resets | Zero Shot Probability: 0.7400564551353455
 Ticket #: 3 | Known Category: Spam | Zero Shot Category: Spam | Zero Shot Probability: 0.8751707673072815
@@ -23,4 +24,4 @@ Ticket #: 7 | Known Category: Password Reset | Zero Shot Category: Web Portal Is
 Ticket #: 8 | Known Category: Spam | Zero Shot Category: Spam | Zero Shot Probability: 0.9286561012268066
 Ticket #: 9 | Known Category: Web Portal Issues | Zero Shot Category: Web Portal Issues | Zero Shot Probability: 0.8927190899848938
 Ticket #: 10 | Known Category: Maintenance Notice | Zero Shot Category: Maintenance Notices | Zero Shot Probability: 0.5159217119216919
- 
+```
