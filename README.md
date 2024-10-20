@@ -10,7 +10,14 @@ Personally, I see this akin to teaching a child the differnce between dogs, cats
 
 # Dependencies 
 - You need Python >= 3.11
-- Pandas, and the transformers libs must be installed on you machine. 
+- Pandas, and the transformers libs must be installed on you machine.
+
+#How  to run 
+- Clone the repo
+- Ensure that dependencies are handled
+- run `python example.py`. This will process a very simple CSV that ChatGPT generated.
+  - If you have your own CSV to process ensure that it is has  "Description" and "Category" fields.
+  - Update the candidate labels to reflect your own use case.
 
 # Example Results
 ```
