@@ -1,0 +1,61 @@
+Ticket ID,Category,Description
+1,BGP Routing,"Hi, we're experiencing some issues with our BGP routing. The AS Path is 65001 65002 65003, and the prefixes are 192.168.1.0/24 and 10.0.0.0/8. Here is the output from the 'show ip bgp' command:
+
+BGP table version is 3, local router ID is 192.168.1.1
+Status codes: s suppressed, d damped, h history, * valid, > best, i - internal
+Origin codes: i - IGP, e - EGP, ? - incomplete
+
+   Network          Next Hop            Metric LocPrf Weight Path
+*> 192.168.1.0/24   0.0.0.0                  0         32768 i
+*> 10.0.0.0/8       192.168.1.2              0         32768 65001 65002 65003 i
+
+Can you check? Thanks, John Doe"
+2,Password Reset,"Hello, I can't seem to reset my password. Can you assist? Regards, Jane Smith"
+3,Spam,"Hi, we're getting a lot of spam emails. Can you help us filter them? Thanks, Bob Johnson"
+4,Web Portal Issues,"Hello, the web portal is not loading properly. Can you look into it? Regards, Alice Brown"
+5,Maintenance Notice,"Hi, we need to schedule a maintenance window. Can you confirm the details? Thanks, Charlie Davis"
+6,BGP Routing,"Hello, our BGP routes seem to be flapping. Can you investigate? Regards, Emily White"
+7,Password Reset,"Hi, I forgot my password and can't log in. Can you help? Thanks, Michael Green"
+8,Spam,"Hello, we're receiving a lot of spam. Can you assist with this? Regards, Sarah Black"
+9,Web Portal Issues,"Hi, the web portal is very slow. Can you check? Thanks, David Blue"
+10,Maintenance Notice,"Hello, we need to plan a maintenance. Can you provide details? Regards, Laura Red"
+11,BGP Routing,"Hi, our BGP session is down. Can you help us restore it? Thanks, Kevin Yellow"
+12,Password Reset,"Hello, I can't remember my password. Can you reset it? Regards, Lisa Purple"
+13,Spam,"Hi, we're getting spammed. Can you help us block these emails? Thanks, James Orange"
+14,Web Portal Issues,"Hello, the web portal is not accessible. Can you fix it? Regards, Karen Pink"
+15,Maintenance Notice,"Hi, we need to notify users about maintenance. Can you assist? Thanks, Brian Gray"
+16,BGP Routing,"Hello, we're having BGP routing issues. Can you look into it? Regards, Megan Brown"
+17,Password Reset,"Hi, I need to reset my password. Can you help? Thanks, Chris White"
+18,Spam,"Hello, we're getting too much spam. Can you help us? Regards, Jessica Black"
+19,Web Portal Issues,"Hi, the web portal is down. Can you check? Thanks, Daniel Blue"
+20,Maintenance Notice,"Hello, we need to announce maintenance. Can you help? Regards, Angela Red"
+21,BGP Routing,"Hi, our BGP routes are unstable. Can you investigate? Thanks, Steven Yellow"
+22,Password Reset,"Hello, I can't log in. Can you reset my password? Regards, Rachel Purple"
+23,Spam,"Hi, we're receiving spam emails. Can you assist? Thanks, Matthew Orange"
+24,Web Portal Issues,"Hello, the web portal is not working. Can you fix it? Regards, Olivia Pink"
+25,Maintenance Notice,"Hi, we need to inform users about maintenance. Can you help? Thanks, Jason Gray"
+26,BGP Routing,"Hello, we're facing BGP routing problems. Can you check? Regards, Natalie Brown"
+27,Password Reset,"Hi, I forgot my password. Can you reset it? Thanks, Andrew White"
+28,Spam,"Hello, we're getting spammed. Can you help us block these emails? Regards, Samantha Black"
+29,Web Portal Issues,"Hi, the web portal is slow. Can you check? Thanks, Ryan Blue"
+30,Maintenance Notice,"Hello, we need to schedule maintenance. Can you assist? Regards, Michelle Red"
+31,BGP Routing,"Hi, our BGP session is unstable. Can you help? Thanks, Eric Yellow"
+32,Password Reset,"Hello, I can't remember my password. Can you reset it? Regards, Laura Purple"
+33,Spam,"Hi, we're getting a lot of spam. Can you help us filter them? Thanks, Adam Orange"
+34,Web Portal Issues,"Hello, the web portal is not loading. Can you fix it? Regards, Emily Pink"
+35,Maintenance Notice,"Hi, we need to notify users about maintenance. Can you assist? Thanks, Kevin Gray"
+36,BGP Routing,"Hello, we're having BGP routing issues. Can you look into it? Regards, Megan Brown"
+37,Password Reset,"Hi, I need to reset my password. Can you help? Thanks, Chris White"
+38,Spam,"Hello, we're getting too much spam. Can you help us? Regards, Jessica Black"
+39,Web Portal Issues,"Hi, the web portal is down. Can you check? Thanks, Daniel Blue"
+40,Maintenance Notice,"Hello, we need to announce maintenance. Can you help? Regards, Angela Red"
+41,BGP Routing,"Hi, our BGP routes are unstable. Can you investigate? Thanks, Steven Yellow"
+42,Password Reset,"Hello, I can't log in. Can you reset my password? Regards, Rachel Purple"
+43,Spam,"Hi, we're receiving spam emails. Can you assist? Thanks, Matthew Orange"
+44,Web Portal Issues,"Hello, the web portal is not working. Can you fix it? Regards, Olivia Pink"
+45,Maintenance Notice,"Hi, we need to inform users about maintenance. Can you help? Thanks, Jason Gray"
+46,BGP Routing,"Hello, we're facing BGP routing problems. Can you check? Regards, Natalie Brown"
+47,Password Reset,"Hi, I forgot my password. Can you reset it? Thanks, Andrew White"
+48,Spam,"Hello, we're getting spammed. Can you help us block these emails? Regards, Samantha Black"
+49,Web Portal Issues,"Hi, the web portal is slow. Can you check? Thanks, Ryan Blue"
+50,Maintenance Notice,"Hello, we need to schedule maintenance. Can you assist? Regards, Michelle Red"
